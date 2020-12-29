@@ -174,8 +174,8 @@ smaller than 980 px
 	position: relative;
 	z-index: 100;
 	text-align: center;
-	margin-left: 8px;
-	margin-right: 8px;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 #top_nav .ultion-nav-global {
     position: relative;
