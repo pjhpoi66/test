@@ -180,7 +180,7 @@ smaller than 980 px
 #top_nav .ultion-nav-global {
     position: relative;
 	margin: 0 auto 0 auto;
-	width: 980px;
+	width: 770px;
 	height: 30px;
 }
 #Notifications .teaser {
